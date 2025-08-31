@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @eshwargit1
+- 👋 Hi, I’m Eshu
 - 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning Next js 
+- 🌱 I’m currently learning Ethical Hacking
 
   
 
